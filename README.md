@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhi0pal/Abhishek-Pal/blob/main/linked_banner.jpg?raw=true)
+![logo](https://github.com/Abhi0pal/Abhi0pal/blob/main/linked_banner01.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <h4 align="center">🌟 I always strive to build something new that makes a positive impact on society! 🌍🚀</h3>
